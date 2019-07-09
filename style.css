@@ -35,4 +35,6 @@ p#featured-property{
 
 div#block{
   float:left;
+  background-color: red; 
+  width: 25%;
 }
