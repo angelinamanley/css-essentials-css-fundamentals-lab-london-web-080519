@@ -29,9 +29,10 @@ p#featured-property{
   width: 800px;
 }
 
-
-div#details{
+details{
   display: block;
+}
+div#details{
   float:left;
   background-color: red;
   width: 25%;
