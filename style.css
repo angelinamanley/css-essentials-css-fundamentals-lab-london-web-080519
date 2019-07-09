@@ -24,7 +24,7 @@ figure {
   font-size: 80%;
 }
 
-p#featured-property{
+#featured-property p{
   text-align: center;
   width: 800px;
 }
@@ -32,7 +32,7 @@ p#featured-property{
 details{
   display: block;
 }
-div#details{
+#details div{
   float:left;
   background-color: red;
   width: 25%;
